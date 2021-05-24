@@ -1,0 +1,103 @@
+{
+    "blog":
+    [
+        {
+            "id": "blog_1",
+            "url_image":"https://cdn.tgdd.vn/Files/2021/05/21/1353602/manhinhcamung_800x450-1_800x450-300x200.jpg",
+            "title":"Năm 2021 nên chọn mua laptop đồ họa, vẽ kĩ thật cấu hình thế nào, có những tính năng gì phụ trợ, giá bao nhiêu là đủ?",
+            "post_time":"21 phút trước",
+            "author":"Vue Shop"
+        },
+        {
+            "id":"blog_2",
+            "url_image": "https://cdn.tgdd.vn/Files/2021/05/20/1353154/vsmartarispro-47_800x450-300x200.jpg",
+            "title": "Mẫu điện thoại Vsmart cũ đáng mua nhất, sale xịn hấp dẫn, giá rẻ chưa từng có, số lượng không còn nhiều, tranh thủ sắm liền",
+            "post_time": "21 phút trước",
+            "author":"Nguyễn Văn Toàn"
+        },
+        {
+            "id":"blog_3",
+            "url_image": "https://cdn.tgdd.vn/Files/2021/05/20/1353114/zalothumb_800x450-300x200.jpg",
+            "title": "Tất tần tật những gì bạn cần biết về Zalo: Ứng dụng nhắn tin, gọi thoại miễn phí sao lại HOT đến thế?",
+            "post_time": "39 phút trước",
+            "author":"Phan Văn Ánh"
+        },
+        {
+            "id":"blog_4",
+            "url_image": "https://cdn.tgdd.vn/Files/2021/05/20/1353285/toc-do-xung-nhip-cpu-la-gi-thumb_800x450-300x200.jpg",
+            "title": "Tìm hiểu tốc độ xung nhịp của CPU: Con số thể hiện khả năng xử lý của CPU, nhưng có phải điểm quyết định hiệu năng của máy tính?",
+            "post_time": "41 phút trước",
+            "author":"Phạm Nhật Tam"
+        },
+        {
+            "id":"blog_5",
+            "url_image": "https://cdn.tgdd.vn/Files/2021/05/09/1349867/one-ui-4_800x450-300x200.jpg",
+            "title": "Điểm mặt đầy đủ các thiết bị Samsung",
+            "post_time": "1 giờ trước",
+            "author":"Minh Vũ"
+        }
+    ],
+    "product":
+    [
+        {
+            "id":"1",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/220833/samsung-galaxy-s21-tim-600x600.jpg",
+            "title":"Samsung Galaxy S21 5G",
+            "price":900
+        },
+        {
+            "id":"2",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-violet-1-600x600.jpg",
+            "title":"Iphone 12 64G",
+            "price":950
+        },
+        {
+            "id":"3",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/222758/xiaomi-redmi-note-10-thumb-green-600x600.jpg",
+            "title":"Xiaomi Redmi Note 10",
+            "price":250
+        },
+        {
+            "id":"4",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/229056/oppo-a93-trang-14-600x600.jpg",
+            "title":"OPPO A93",
+            "price":300
+        },
+        {
+            "id":"5",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/228999/samsung-galaxy-a02-xanhduong-600x600-600x600.jpg",
+            "title":"Samsung Galaxy A02",
+            "price":100
+        },
+        {
+            "id":"6",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/220438/oppo-reno5-trang-600x600-1-600x600.jpg",
+            "title":"OPPO Reno 5",
+            "price":450
+        },
+        {
+            "id":"7",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xanh-duong-new-600x600-600x600.jpg",
+            "title":"IPHONE 12 PRO MAX 128GB",
+            "price":1500
+        },
+        {
+            "id":"8",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/228950/vivo-y51-bac-600x600-600x600.jpg",
+            "title":"Vivo Y51 (2020)",
+            "price":280
+        },
+        {
+            "id":"9",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/226733/realme-c12-do-13-600x600.jpg",
+            "title":"Realme C12",
+            "price":150
+        },
+        {
+            "id":"10",
+            "img":"https://cdn.tgdd.vn/Products/Images/42/217536/samsung-galaxy-m51-trang-new-600x600-600x600.jpg",
+            "title":"Samsung Galaxy M51",
+            "price":400
+        }
+    ]
+}
