@@ -9,11 +9,11 @@
                   <router-link tag="a" class="menu-link" to="/">Trang chủ</router-link>
                 </li>
               <li>
-                  <router-link tag="a" class="menu-link" to="/Product">Sản phẩm</router-link>
-              </li>
-              <li>
                   <router-link tag="a" class="menu-link" to="/Blog">Blog</router-link>
                 </li>
+              <li>
+                  <router-link tag="a" class="menu-link" to="/Admin">Admin</router-link>
+              </li>
           </ul>
       </div>
       <div id="cart" class="col-md-2">
